@@ -26,11 +26,13 @@ There are some questions to explore have been identified:
 5.	What are the top 5 airports and carriers contributing for most delays and their relationship?
 
 ### Prototype 1
+![image](https://user-images.githubusercontent.com/118057504/224167166-eff47a3d-eefb-4a55-8dc9-86eff87b47ac.png)
 
 
 ### Insights 1
 
 Month that has the greatest number of total airline delays is <b>7(July)</b>:
+![image](https://user-images.githubusercontent.com/118057504/224167366-57bfeb93-8111-4dcd-91dc-a1bf6ecffb4d.png)
 
 
 
