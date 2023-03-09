@@ -27,12 +27,11 @@ There are some questions to explore have been identified:
 
 ### Prototype 1
 
-![image](https://user-images.githubusercontent.com/118057504/224116372-527b2225-6bbe-4db4-b8e7-4d6121c0ce1f.png)
 
 ### Insights 1
 
 Month that has the greatest number of total airline delays is <b>7(July)</b>:
-![image](https://user-images.githubusercontent.com/118057504/224119758-b303fb56-6a1b-459b-a168-a429f2239113.png)
+
 
 
 #### Insights 2
