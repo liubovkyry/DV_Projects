@@ -31,7 +31,7 @@ There are some questions to explore have been identified:
 ![image](https://user-images.githubusercontent.com/118057504/224167166-eff47a3d-eefb-4a55-8dc9-86eff87b47ac.png)
 
 
-### Insights 1 
+### Insight 1 
 Which month has the greatest number of total airline delays and how does the trend look like for the entire year?
 
 Month that has the greatest number of total airline delays is <b>7(July)</b>:
@@ -39,25 +39,25 @@ Month that has the greatest number of total airline delays is <b>7(July)</b>:
 
 
 
-#### Insights 2 
+#### Insight 2 
 What are the reasons for flight delay and the most impacting ones?
 
-The most impacting reasons of flight delays caused  by carrier, extreme weather, and national aviation system (NAS).
+The most impacting reasons of flight delays caused  by <b>carrier</b>, <b>extreme weather</b>, and <b>national aviation system (NAS)</b>.
 
 ![image](https://user-images.githubusercontent.com/118057504/224286188-66fe2e17-5b9d-44ca-80a6-ed80b01f304a.png)
 
-#### Insights 3 
+#### Insight 3 
 States that display the greatest number of arrival delays?
 
-The state Texas has the greatest number of flight delays in 2021 (127727), with Florida (114371) and California (99961)
+The state <b>Texas</b> has the greatest number of flight delays in 2021 (127727), with <b>Florida</b> (114371) and <b>California</b> (99961)
 ![image](https://user-images.githubusercontent.com/118057504/224288625-deb8408f-dfe3-434b-8043-ad1ee634cbfc.png)
 
 
 
-#### Insights 4 
+#### Insight 4 
 What are the carriers that causes most delays when all airports are considered?
 
-The Top 5 carriers that causing the greatest number of flight delays are:
+The <b>Top 5 carriers</b> that causing the greatest number of flight delays are:
 1) WN, SouthWest Airlines Co - 91K delays
 2) OO, SkyWest Airlines Co - 71K delays
 3) AA, American Airlines Inc. - 48K delays
@@ -67,8 +67,8 @@ The Top 5 carriers that causing the greatest number of flight delays are:
 ![image](https://user-images.githubusercontent.com/118057504/224290446-020933c4-6be6-45cc-bd94-f6817fa75d29.png)
 
 
-#### Insights 5 
-What are the top 5 airports and carriers contributing for most delays and their relationship?
+#### Insight 5 
+What are the <b>Top 5 airports</b> and carriers contributing for most delays and their relationship?
 
 The top 5 airports contributing for most delays are:
 1) DFW, Dallas/Forth West International
@@ -77,7 +77,10 @@ The top 5 airports contributing for most delays are:
 4) ATL, Hartsfield-Jackson Atlanta International
 5) LAX, Los Angeles International
 
-On the Table Visual and Stacked Bar Chart displayed below we can notice the relationship between the Airport of Dallas that had the most flight delays in 2021 and the carrier (American Airlines Inc), that causing the most delays in the chosen airport.
+On the Table Visual and Stacked Bar Chart displayed below we can notice the relationship between <b>the Dallas International Airport</b> that had the most flight delays in 2021 and the carrier <b>(American Airlines Inc)</b>, that causing the most delays in the chosen airport.
+
+![image](https://user-images.githubusercontent.com/118057504/224296712-30c40775-b07a-4c71-8923-9256201d0afe.png)
 
 
+---------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/118057504/224116199-bb570055-966e-4991-941d-accf68a32800.png)
