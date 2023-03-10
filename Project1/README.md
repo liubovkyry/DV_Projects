@@ -77,7 +77,7 @@ The top 5 airports contributing for most delays are:
 4) ATL, Hartsfield-Jackson Atlanta International
 5) LAX, Los Angeles International
 
-On the Table Visual and Stacked Bar Chart displayed below we can notice the relationship between <b>the Dallas International Airport</b> that had the most flight delays in 2021 and the carrier <b>(American Airlines Inc)</b>, that causing the most delays in the chosen airport.
+On the Table Visual and Stacked Bar Chart displayed below we can notice the relationship between <b>DFW,  Dallas International Airport</b> that had the most flight delays in 2021 and the carrier <b>(AA, American Airlines Inc)</b>, that causing the most delays in the chosen airport.
 
 ![image](https://user-images.githubusercontent.com/118057504/224296712-30c40775-b07a-4c71-8923-9256201d0afe.png)
 
