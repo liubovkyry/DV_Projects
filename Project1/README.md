@@ -2,6 +2,11 @@
 
  # Visualising Flight Delays 
 
+ Using BI and Data Visualization tools created analysis of flight delays in the USA for 2021 and presented a dashboard.
+ 
+ 
+ 
+ 
  ## Data
 
 
@@ -77,6 +82,21 @@ On the Table Visual and Stacked Bar Chart displayed below we can notice the rela
 
 ![image](https://user-images.githubusercontent.com/118057504/224296712-30c40775-b07a-4c71-8923-9256201d0afe.png)
 
+## Conclusion
+
+Using PowerBI features  I developed and presented a data visualization project based on a database of flight of United States. With these data base analisys I was able to asnwer the proposed questions.
+
+Wich are the “types of flight delays”? Wich “type of flight delay” is the most impacting? There are 7 types of flight delays: security, weather, air system, airline, late aircraft, arrival and departure. The most impacting type is departure delay.
+Wich month is the most affected by “flight delays”? June is the month more affected with flight delays.
+In wich state occurs more “flight delays”? Texas has the majos occurance off light delays.
+
+## Resourses
+
+https://mosesandersonong.medium.com/data-visualisation-of-flight-delays-with-tableau-40aa6abf676b
+https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp
 
 ---------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/118057504/224116199-bb570055-966e-4991-941d-accf68a32800.png)
+
+
+
