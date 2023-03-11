@@ -1,6 +1,6 @@
-  Project 1
 
- # Visualising Flight Delays 
+ # Visualising Flight Delays Project 
+
 
  Using BI and Data Visualization tools created analysis of flight delays in the USA for 2021 and presented a dashboard.
  
